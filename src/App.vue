@@ -1,9 +1,12 @@
 <script setup lang="ts">
-import Header from "./components/Header.vue"
+import Header from "@/components/Header.vue";
+import AddNewTask from "@/components/AddNewTask.vue";
 </script>
-<style scoped>
 
-</style>
 <template>
-  <Header/>
+  <Header />
+  <AddNewTask />
 </template>
+
+<style scoped></style>
+śś
